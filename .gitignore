@@ -12,3 +12,14 @@ __pycache__/
 
 # Environment variables
 .env
+
+# Không đẩy video
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+
+# Nếu video nằm trong thư mục videos
+videos/
+video/
